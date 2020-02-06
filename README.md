@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="/img/github_cover.png" >
+  <img src="" >
 </p>
 
 Aqui você encontra os *notebooks* e códigos Python do blog Sigmoidal. Cada arquivo deste repositório é parte de um artigo do site. Para conseguir absorver o máximo possível, recomendo você ler também os *posts* do site, para maiores detalhes.
@@ -14,6 +14,11 @@ Aqui você encontra os *notebooks* e códigos Python do blog Sigmoidal. Cada arq
 Veja os tutoriais publicados do meu guitHub:
 
 * ** Projeto Hamburgueria207: ** https://bit.ly/2OvPGQe
+Desafio do Titanic: ** https://sigmoidal.ai/data-science-titanic-python-1/
+Análise dos índices de suicídio no Brasil: ** https://sigmoidal.ai/setembro-amarelo-analise-do-suicidio-no-brasil-com-data-science/
+Gráfico de Waffle: ** https://sigmoidal.ai/como-criar-um-grafico-de-waffle-no-python/
+Machine Learning para detectar câncer de mama: ** https://sigmoidal.ai/machine-learning-para-a-deteccao-de-cancer-de-mama/
+
 
 ## Códigos
 
