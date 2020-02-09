@@ -6,7 +6,9 @@
   <img src="" >
 </p>
 
-Aqui você encontra os *notebooks* e códigos Python do blog Sigmoidal. Cada arquivo deste repositório é parte de um artigo do site. Para conseguir absorver o máximo possível, recomendo você ler também os *posts* do site, para maiores detalhes.
+Aqui você encontra os *notebooks* e códigos Python e R. Recomendo você observar, ler e praticar bastante nas duas linguagens para melhorar seu desenpenho e aprendizado.
+
+
 
 **Linkdedin:** https://bit.ly/2upyHIB
 
