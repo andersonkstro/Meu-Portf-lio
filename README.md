@@ -16,7 +16,7 @@ Aqui você encontra os *notebooks* e códigos Python e R. Recomendo você observ
 Veja os tutoriais publicados do meu guitHub:
 
 * ** Projeto Hamburgueria207 em Pythono: ** https://bit.ly/2OvPGQe
-* ** Projeto Hamburgueria207 em R      : ** https://bit.ly/38AENF8
+* ** Projeto Hamburgueria207 em R      : ** 
 
 ## Códigos
 
