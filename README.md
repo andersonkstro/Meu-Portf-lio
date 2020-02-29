@@ -15,8 +15,8 @@ Aqui você encontra os *notebooks* e códigos Python e R. Recomendo você observ
 ## Notebooks:
 Veja os tutoriais publicados do meu guitHub:
 
-* ** Projeto Hamburgueria207 em Pythono: ** https://bit.ly/2OvPGQe
-* ** Projeto Hamburgueria207 em R      : ** https://bit.ly/38cimos
+* ** Projeto Hamburgueria207 Script em Python: ** https://bit.ly/2OvPGQe
+* ** Projeto Hamburgueria207 Script em R      : ** https://bit.ly/38cimos
 
 ## Códigos
 
@@ -34,10 +34,7 @@ Sou profissional da área de Tecnologia da Informação e Comunicação, com exp
 * Segunda Graduação em Big Data e Inteligência Analítica.
 * MBA em Business Intelligenve(BI).
 
-### eBook:
-
-
-
+### 
 ---
 
 
