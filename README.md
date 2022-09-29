@@ -28,11 +28,13 @@ Veja os tutoriais publicados do meu guitHub:
 
 ### Sobre mim:
 
-Sou profissional da área de Tecnologia da Informação e Comunicação, com experiência em inteligência de negócios, estou tranalhando atualmente na empresa VALE e faço parte da equipe de Gerência de Equipamentos de Carga da S.R Carajás, onde ajudo a identificar máquinas com seus indicadores de desempenho. Busco poder ajudar empresas e negócios que estão tentando identificar melhor seu publico para satisfazer ou aumentar suas vendas.
+Anderson é um admirador e apaixonado pela análise de dados, cria, desenvolve soluções para melhor tomada de decisão de seus clientes, constrói dashboards incríveis capaz de passar clareza e entendimento das informações, gerando insights e agregando mais valor aos negócios.
+- Se você está pensando em inovar, criar soluções com seus dados, otimizar processos, automatizar tarefas repetitivas e aplicar tudo isso em um ambiente de fácil entendimento, fale com Anderson, ele é um profissional atualizado e com capacidade de resolver problemas de negócios com dados e pensa fora da caixinha.
+
+Possui expertise em ETL, visualização de dados, Storytelling, modelagem avançada, ferramentas como Power BI, SQL, PYTHON, R e algumas certificações em sua área.
 
 * Graduação em Gestão Financeira.
 * Segunda Graduação em Big Data e Inteligência Analítica.
-* MBA em Business Intelligenve(BI).
 
 ### 
 ---
