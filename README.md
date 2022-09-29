@@ -1,14 +1,12 @@
 
-#                        Oi 👋, Eu sou Anderson de Castro Matos
+# Oi 👋, Eu sou Anderson de Castro Matos
 
 # Apaixonado por ciência e análise de dados no mundo digital
 
 
-<p align="center">
-  <img src="" >
-</p>
-
 Aqui você encontra os *notebooks* e códigos Python e R. Recomendo você observar, ler e praticar bastante nas duas linguagens para melhorar seu desenpenho e aprendizado.
+
+
 
 
 
@@ -25,15 +23,3 @@ Aqui você encontra os *notebooks* e códigos Python e R. Recomendo você observ
 📫Você me acha através do e-mail andersoncastrom@icloud.com
 
 📄 Meu LinkedLin: https://www.linkedin.com/in/andersoncmatos/
-
-
-
-Connect with me:
-https://www.linkedin.com/in/luan-andersoncmatos/ ACAnalytics https://acanalytics.com.br/
-
-Languages and Tools:
-aws mssql mysql oracle postgresql python sqlite
-
-
-
-
