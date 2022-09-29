@@ -10,7 +10,7 @@ Aqui você encontra os *notebooks* e códigos Python e R. Recomendo você observ
 
 
 
-**Linkdedin:** https://bit.ly/2upyHIB
+**Linkdedin:** https://www.linkedin.com/in/andersoncmatos/
 
 ## Notebooks:
 Veja os tutoriais publicados do meu guitHub:
